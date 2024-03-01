@@ -1,0 +1,21 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-image: url('./../public/photo.avif'); /* Set the background image */
+    background-size: cover; /* Cover the entire container */
+    background-repeat: no-repeat; /* Prevent repeating the image */
+    background-position: center; /* Center the image */
+  }
+  
+  /* Add more styles as needed */
+  
